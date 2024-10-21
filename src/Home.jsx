@@ -1,6 +1,5 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
-// import Add from './components/Add'
 import { Link } from 'react-router-dom'
 import { deleteStudent } from './redux/studentSlice'
 
